@@ -9,7 +9,7 @@ import {
   SimpleGrid,
   VStack,
 } from '@chakra-ui/react';
-import { Header } from '../../components/Header';
+import { Header } from '../../components/Header/index';
 import { Sidebar } from '../../components/Sidebar';
 import { Input } from '../../components/Form/input';
 
